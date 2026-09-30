@@ -1,0 +1,7 @@
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B1.5 - Klassenfinder\B1.5 - Klassenfinder\bin\Debug\B1.5 - Klassenfinder.exe.config
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B1.5 - Klassenfinder\B1.5 - Klassenfinder\bin\Debug\B1.5 - Klassenfinder.exe
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B1.5 - Klassenfinder\B1.5 - Klassenfinder\bin\Debug\B1.5 - Klassenfinder.pdb
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B1.5 - Klassenfinder\B1.5 - Klassenfinder\obj\Debug\B1.5 - Klassenfinder.csproj.AssemblyReference.cache
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B1.5 - Klassenfinder\B1.5 - Klassenfinder\obj\Debug\B1.5 - Klassenfinder.csproj.CoreCompileInputs.cache
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B1.5 - Klassenfinder\B1.5 - Klassenfinder\obj\Debug\B1.5 - Klassenfinder.exe
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B1.5 - Klassenfinder\B1.5 - Klassenfinder\obj\Debug\B1.5 - Klassenfinder.pdb
